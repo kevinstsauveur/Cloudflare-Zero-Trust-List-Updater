@@ -1,3 +1,14 @@
+# Status of Kevin's update script
+
+[![Update Filter Lists](https://github.com/kevinstsauveur/Cloudflare-Zero-Trust-List-Updater/actions/workflows/auto_update_github_action.yml/badge.svg)](https://github.com/kevinstsauveur/Cloudflare-Zero-Trust-List-Updater/actions/workflows/auto_update_github_action.yml)
+
+This is made so I can use my lists with [Cloudflare Zero Trust](https://www.cloudflare.com/fr-fr/zero-trust/) solution :
+- https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/doh/doh_adblock.txt
+- https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/doh/doh_privacy.txt
+- https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt
+
+---
+
 # Cloudflare Gateway Pi-hole Scripts (CGPS)
 
 ![Cloudflare Gateway Analytics screenshot showing a thousand blocked DNS requests](.github/images/gateway_analytics.png)
